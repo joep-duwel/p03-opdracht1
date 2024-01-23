@@ -1,0 +1,24 @@
+body{
+    display: grid;
+    top: 0;
+}
+.box{
+    
+    position: absolute;
+    text-align: center;
+    width: 200px;
+    
+}
+.item{
+    background-color: orange;
+    top: 0;
+}
+.text{
+    margin-top: 0;
+    border-left: 1px solid orange;
+    border-right: 1px solid orange;
+}
+.call{
+    color: orange;
+    border: 1px solid orange;
+}
